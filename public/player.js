@@ -1,5 +1,5 @@
 /**
- Betrayal at House on the Hill Player Aid v_2.1
+ Betrayal at House on the Hill Player Aid (v_3.0 Summer 2023)
  Created by Sean Doyle.
  This file contains the Player constructor function.
 

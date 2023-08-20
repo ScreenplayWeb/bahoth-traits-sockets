@@ -1,5 +1,5 @@
 /**
-Betrayal at House on the Hill Player Aid (v_2.1 October 2020)  Created by Sean Doyle.
+Betrayal at House on the Hill Player Aid (v_3.0 Summer 2023)  Created by Sean Doyle.
 NEW:
 V 2.1
 -Added End Session functionality
